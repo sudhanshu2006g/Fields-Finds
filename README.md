@@ -1,6 +1,6 @@
 # Fields-Finds- Agricultural Tools Rental System
 
-**PROBLEM STATEMENT**
+**PROBLEM STATEMENT**-->
 ​
 **1**.Farming tools are expensive and not affordable for many small farmers
 ​
@@ -20,7 +20,7 @@
 ​
 **4**.Architecture-Client–Server
 
-**Team Details – NG_CP_Team_350**
+**Team Details – NG_CP_Team_350**-->
 ​
 **LEADER**- Sudhanshu Gupta
 ​
